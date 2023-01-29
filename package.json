@@ -1,0 +1,7 @@
+{
+  "name": "ts-project",
+  "packageManager": "yarn@3.3.1",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
